@@ -4,7 +4,6 @@ from sensor_msgs.msg import Image, PointCloud2
 import numpy as np
 from cv_bridge import CvBridge
 import cv2
-import matplotlib.pyplot as plt
 import struct
 import ctypes
 from rospy.numpy_msg import numpy_msg

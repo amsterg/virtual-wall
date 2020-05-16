@@ -1,0 +1,6 @@
+gtts
+numpy
+rospy
+matplotlib
+opencv-python
+scipy

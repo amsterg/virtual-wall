@@ -3,4 +3,5 @@ numpy
 rospy
 matplotlib
 opencv-python
+opencv-contrib-python
 scipy

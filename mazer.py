@@ -1,6 +1,6 @@
+#!/usr/bin/env python
 import rospy
 from sensor_msgs.msg import Image, PointCloud2
-import sensor_msgs.point_cloud2 as pc2
 import numpy as np
 from cv_bridge import CvBridge
 import cv2
